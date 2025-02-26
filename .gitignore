@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# project specific
+bash_script
+company_search
+job_name_list
+job_listings.csv
+
+.DS_Store
+.idea/
